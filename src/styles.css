@@ -134,6 +134,7 @@ iframe {
 
 .logo {
     width: 120px;
+    height: auto;
     max-width: 120px;
 }
 
